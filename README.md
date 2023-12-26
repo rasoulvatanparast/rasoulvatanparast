@@ -3,7 +3,7 @@
 
 My name is Rasoul
 - 🔭 I’m currently working on a FullStack Blog with NodeJS and ReactJS
-- 📫 How to reach me: by e-mail: rasoulvtn@gmail.com
+- 📫 You can reach me by e-mail: rasoulvtn@gmail.com
 <!--
 **rasoulvatanparast/rasoulvatanparast** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
