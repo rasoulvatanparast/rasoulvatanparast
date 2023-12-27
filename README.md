@@ -5,7 +5,7 @@ My name is Rasoul
 - 🔭 I’m currently working on a FullStack Blog with NodeJS and ReactJS Because my Resume is really EMPTY 🏋️‍♀️
 -  I'm Open to any Job Offers to gain any Experience
 - 📫 You can reach me by e-mail: rasoulvtn@gmail.com
-- If you have any advice feel free to email me :)
+- I don't mind if you send any crazy ideas, advice, or whatever to my email. SEND THAT
 
 <!--
 **rasoulvatanparast/rasoulvatanparast** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
