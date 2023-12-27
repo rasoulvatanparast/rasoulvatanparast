@@ -2,8 +2,11 @@
 <a href="https://linkedin.com/in/rasoulvtn" class="button big">LinkedIn</a>   
 
 My name is Rasoul
-- 🔭 I’m currently working on a FullStack Blog with NodeJS and ReactJS
+- 🔭 I’m currently working on a FullStack Blog with NodeJS and ReactJS Because my Resume is really EMPTY 🏋️‍♀️
+-  I'm Open to any Job Offers to gain any Experience
 - 📫 You can reach me by e-mail: rasoulvtn@gmail.com
+- If you have any advice feel free to email me :)
+
 <!--
 **rasoulvatanparast/rasoulvatanparast** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
